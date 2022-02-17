@@ -1,8 +1,14 @@
 # This script was used to download and prepare for angle calculations
-# Using libraries
+
+
+# Using 
+# R 4.1.2 for windows 64 bit
+
+
 # rstudioapi
 # bio3d
 # httr
+
 
 
 
